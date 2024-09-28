@@ -1,0 +1,62 @@
+{
+  "homePageUrl" : "https://www.automationexercise.com/",
+  "testCasesPageUrl" : "https://www.automationexercise.com/test_cases",
+  "productsUrl" : "https://www.automationexercise.com/products",
+  "cartUrl" : "https://www.automationexercise.com/view_cart",
+  "searchQuery" : "SHAFT_engine",
+  "subscribeEmail" : "selimporto@fady.com",
+  "comment" : "This is a test comment",
+
+  "registerData" : {
+    "title" : "Mr.",
+    "firstName" : "mohamed",
+    "lastName" : "selim",
+    "birthDateDay" : "3",
+    "birthDateMonth" : "December",
+    "birthDateYear" : "1999",
+    "company" : "Giza Systems",
+    "address1" : "street 90 - building 176 - Giza Systems",
+    "address2" : "New Cairo - Cairo",
+    "country" : "United States",
+    "state" : "Cairo",
+    "city" : "New Cairo",
+    "zipCode" : "11835",
+    "mobile" : "0123456789",
+    "email" : "selim@project.com",
+    "password" : "P@ssw0rd"
+  },
+
+  "loginData" : {
+    "email" : "eldenlord@eldenring.com",
+    "password" : "bladeofmiquella",
+    "wrongEmail" : "wrongDATA@whytest.com",
+    "wrongPassword" : "can'tsignin"
+  },
+
+  "contactFormData" : {
+    "name" : "selim",
+    "email" : "contacttestmail@test.com",
+    "subject" : "testing contact form",
+    "message" : "please let me know if the test of the contact form passed successfully or failed miserably. thank you so much"
+  },
+
+  "paymentDetails" : {
+    "cardNumber" : "4111111111111111",
+    "expiryMonth" : "12",
+    "expiryYear" : "2026",
+    "cvc" : "123",
+    "nameOnCard" : "Mohamed Selim"
+  },
+
+  "reviewDetails" : {
+    "name" : "selim",
+    "email" : "reviewemail@test.com",
+    "review" : "This is a test review for the product with the name of SHAFT_engine. Please let me know if the review was added successfully or not. Thank you so much."
+  },
+
+  "searchProduct" : "polo",
+  "accountDeleted" : "ACCOUNT DELETED!",
+  "accountCreated" : "ACCOUNT CREATED!",
+  "signUpForm" : "New User Signup!",
+  "loginForm" : "Login to your account"
+}
